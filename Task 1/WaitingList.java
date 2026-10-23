@@ -19,7 +19,6 @@ public class WaitingList {
 
         waitingList.remove("Sami");
         System.out.println("Last after remove Sami: " + waitingList);
-
         System.out.println("The Current list is: " + waitingList);
     }
 }
