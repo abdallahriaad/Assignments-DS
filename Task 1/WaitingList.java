@@ -1,4 +1,4 @@
-// Part C - Java LinkedList Tasks 1
+// Part C - Java LinkedList Task 1
 import java.util.LinkedList;
 public class WaitingList {
  public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class WaitingList {
         waitingList.addLast("Khaled");
         System.out.println("Last after added students: " + waitingList);
 
-        waitingList.addFirst("Abdallah"); 
+        waitingList.addFirst("Abdallah");
         waitingList.addFirst("Mahmoud"); 
         System.out.println("Last after added first student (priority): " + waitingList);
 
